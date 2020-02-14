@@ -1,0 +1,79 @@
+#home
+{
+margin-left:auto;
+margin-right:auto;
+height: 70%;
+width: 100%;
+position: relative;
+}
+body{
+	margin:0;
+}
+input[type=submit] {
+    padding:12px 30px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 6px;
+    border-radius: 7px; 
+    font-size: 14px;
+}
+
+#lista {
+	position: relative;
+	left:15px;
+}
+
+#hed1
+{
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0 auto;
+height: 20%;
+width: 100%;
+font-size:40px;
+position: relative;
+background-color:#D8F6CE;
+}
+h4 {
+    position: relative;
+    text-align: center;
+    top:20px;
+}
+
+#levi {
+float:left;
+top:30px; 
+left:  15px;
+margin:0;
+width:21%;
+height: 70%;
+position:relative;
+display: inline-block;
+}
+#srednji {
+float:left; 
+top:30px;  
+margin:0;
+width: 42%;
+height: 70%;
+position:relative;
+display: inline-block;
+ 
+}
+#desni{
+float:right; 
+right: 0px;
+top:30px; 
+margin:0;
+width: 37%;
+height: 70%;
+position:relative;
+display: inline-block;
+}
+
+button
+{
+    background:#ccc; 
+    -webkit-border-radius: 6px;
+}

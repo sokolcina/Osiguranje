@@ -1,0 +1,71 @@
+#hed
+{
+margin-left:auto;
+margin-right:auto;
+margin-bottom:0 auto;
+height: 20%;
+width: 100%;
+font-size:40px;
+position: relative;
+background-color:#D8F6CE;
+}
+
+h4 {
+	position: relative;
+	text-align: center;
+	top:20px;
+}
+body{
+	margin:0;
+}
+
+#logovanje
+{
+
+margin-left:auto;
+margin-right:auto;
+height: 70%;
+width: 100%;
+position: relative;
+text-align: center;
+}
+
+#levi {
+float:left;
+margin:0;
+width:50%;
+position:relative;
+display: inline-block;
+}
+#desni{
+float:left;  
+margin:0;
+width: 50%;
+position:relative;
+display: inline-block;
+}
+label {
+font-size: 20px;
+}
+
+input[type=submit] {
+    padding:12px 30px; 
+    background:#ccc; 
+    border:0 none;
+    cursor:pointer;
+    -webkit-border-radius: 6px;
+    border-radius: 7px; 
+    font-size: 14px;
+}
+#glavni
+{
+height: 70%;
+width: 100%;
+position: relative;
+text-align: center;
+}
+footer {
+height: 10%;
+width: 100%;
+text-align: center;
+}
